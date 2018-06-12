@@ -1,0 +1,19 @@
+{
+  "name": "display-yt-wrapper",
+  "version": "1.0.0",
+  "description": "yt wrapper for display ads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisathook/display-yt-wrapper.git"
+  },
+  "author": "chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisathook/display-yt-wrapper/issues"
+  },
+  "homepage": "https://github.com/chrisathook/display-yt-wrapper#readme"
+}
