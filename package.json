@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chrisathook/display-yt-wrapper/issues"
   },
+  "browserify": {
+    "transform": [["babelify", { "presets": ["es2015"] }]]
+  },
   "homepage": "https://github.com/chrisathook/display-yt-wrapper#readme"
 }
